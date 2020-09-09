@@ -1,12 +1,127 @@
 <!DOCTYPE html>
   <head>
     <meta charset="utf-8">
-    <title>Interactive Data Visualization Tutorial</title>
-    <link rel="stylesheet" href="./style.css">
-  </head>
-  <body>
-    Welcome to Interactive Data Visualization Tutorials
+    <meta name="description" content="Tutorial 1">
+    <meta name="keywords" content="HTML, CSS, JavaScript, VS Code, D3">
+    <meta name="author" content="Alexander Avdeev">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Interactive Data Visualization Tutorial 1</title>
+    <link rel="stylesheet" href="style.css">
     <script src="../lib/d3.js"></script>
     <script src="main.js"></script>
+  </head>
+  <body>
+    <h1 id="header">Welcome to Interactive Data Visualization Tutorials</h1>
+    <h2 id="subtitle">Tutorial 1</h2>
+    <h3 align="center">A STUDY OF PERSONALITY PROFILES AMONG THE ADOLESCENT BOYS AND GIRLS IN DIFFERENT EDUCATIONAL ENVIRONMENT</h3>
+    <p>The High School Personality Questionnaire (HSPQ) is a self-report inventory 
+       for adolescents that measures 14 primary personality characteristics which are
+       important in predicting and understanding social, clinical, occupational and 
+       school behaviours (such as school achievement, vocational fitness, danger of delinquency,
+       likelihood of leadership qualities, need for clinical help in neurotic condition, etc.).
+    </p>
+    <p>This study was conducted as a part of the Reseach Project 
+       <a href="https://www.idosi.org/mejsr/mejsr17(11)13/3.pdf">"Information Culture as Factor of Self-Attitude Developing in Adolescents"</a> undertaken
+       at the Department of Psychology, Belgorod National Research University (Belgorod, Russia).<br/><br/>
+       The study was done during December 2012 to January 2013 in schools of the city of Belgorod. All the participants were explained the 
+       purpose of the study and were ensured strict confidentiality. The participants were given the choice of not participating in 
+       the study if they did not want to and completed once were collected on the same day.
+    </p>
+    <h3 align="center">HTML TABLE</h3>
+    <table class="table_blur">
+      <thead>
+        <tr>
+          <th colspan="3">BRIEF DESCRIPTION OF THE 14 HSPQ PERSONALITY FACTORS</th>
+        </tr>
+        <tr>
+          <th>LOW SCORE (-)</th>
+          <th>FACTOR</th>
+          <th>HIGH SCORE (+)</th>
+        </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Cool<br/>Reserved, impersonal, detached, formal, aloof.<br/>Primary element: affect<br/>A- people show very little affect.</td>
+            <td>A<br/>WARMTH</td>
+            <td>Warm<br/>Outgoing, kind, easy-going, participating, likes people.<br/>A+ people are very expressive.</td>
+          </tr>
+          <tr>
+            <td>Concrete thinking (less intelligent)<br/>Low mental capacity, unable to handle abstract problems, apt to be less organized.</td>
+            <td>B<br/>INTELLIGENCE</td>
+            <td>Abstract thinking (more intelligent/bright)<br/>High mental capacity, insightful, fast learner, intellectually adaptable, inclined to have more intellectual interests.</td>
+          </tr>
+          <tr>
+            <td>Affected by feelings<br/>Emotionally less stable, easily annoyed.<br/></td>
+            <td>C<br/>EMOTIONAL STABILITY</td>
+            <td>Emotionally stable<br/>Mature, faces reality, calm.</td>
+          </tr>
+          <tr>
+            <td>Phlegmatic<br/>Undemonstrative, deliberate, placid, inactive.</td>
+            <td>D<br/>EXCITABILITY</td>
+            <td>Excitable<br/>Impatient, demanding, overactive, easily distracted.</td>
+          </tr>
+          <tr>
+            <td>Submissive<br/>Humble, mild, easily led, accommodating.<br/>Very low scores: Occur in the profiles of neurotics and other psychiatrically diagnosed individuals.</td>
+            <td>E<br/>DOMINANCE</td>
+            <td>Dominant<br/>Assertive, aggressive, stubborn, competitive, bossy.<br/>High scores: Delinquency patter in teenagers.</td>
+          </tr>
+          <tr>
+            <td>Sober<br/>Restrained, prudent, taciturn, serious.</td>
+            <td>F<br/>CHEERFULNESS</td>
+            <td>Cheerful<br/>Enthusiastic, impulsive, expressive.</td>
+          </tr>
+          <tr>
+            <td>Expedient<br/>Disregards rules, self indulgent.	</td>
+            <td>G<br/>CONFORMITY</td>
+            <td>Confirming<br/>Conscientious, moralistic, rule-bound, persistent, staid.<br/>Depicts regard for group moral standards.</td>
+          </tr>
+          <tr>
+            <td>Shy<br/>Sensitive, timid, hesitant, intimidated.<br/>Schizoid, pre-psychotics, schizophrenics have shown to score below average on factor H.</td>
+            <td>H<br/>BOLDNESS</td>
+            <td>Bold<br/>Venturesome, uninhibited, can take stress.</td>
+          </tr>
+          <tr>
+            <td>Tough-minded<br/>Self-reliant, tough, realistic, expects little.</td>
+            <td>I<br/>SENSITIVITY</td>
+            <td>Tender-minded<br/> Sensitive, overprotected, intuitive, expecting affection and attention.</td>
+          </tr>
+          <tr>
+            <td>Vigorous<br/>Goes readily with group, zestful, likes attention	</td>
+            <td>J<br/>WITHDRAWAL</td>
+            <td>Withdrawn<br/>Guarded, internally restrained, circumspect, individualistic, evaluates coldly.</td>
+          </tr>
+          <tr>
+            <td>Self-assured<br/>Secure, feels free of guilt, untroubled, self-satisfied.	</td>
+            <td>O<br/>APPREHENSION</td>
+            <td>Apprehensive<br/>Self-blaming, guilt prone, insecure, worrying.<br/>Clinically, this is one of the largest contributors to the composite anxiety factor.</td>
+          </tr>
+          <tr>
+            <td>Group-oriented<br/>A joiner and sound follower, believes in others, socially group-dependent.<br/>
+                Shows a tendency to go along with the group.<br/>Strongly value social approval and convention.</td>
+            <td>Q2<br/>SELF-SUFFICIENCY</td>
+            <td>Self-sufficient<br/>Resourceful, prefers own decisions.<br/>
+                People are resolute and accustomed to making own decisions.</td>
+          </tr>
+          <tr>
+            <td>Undisciplined; self-conflict<br/>Lax, careless of social rules, uncontrolled, follows own urges.<br/>
+                Untutored, emotionally and narcissistically rejecting cultural demands.</td>
+            <td>Q3<br/>SELF-DISCIPLINE</td>
+            <td>Self-disciplined<br/>Controlled, socially precise, compulsive, self-respecting, exacting, willpower, follows self-image.</td>
+          </tr>
+          <tr>
+            <td>Relaxed<br/>Tranquil, composed, has low drive, unfrustrated.</td>
+            <td>Q4<br/>TENSION</td>
+            <td>Tense.<br/>Frustrated, overwrought, has high drive.</td>
+          </tr>
+        </tbody>
+      </table>
+      <br/>
+      <h3 align="center">USING D3.JS TO CREATE A TABLE USING DATA FROM A CVS FILE</h3>
+      <table id="d3-table" class="table_blur"></table>
+      <p>* 15-years-old teens are highlighted</p>
+      <h3 align="center">CREATING A SIMPLE BAR CHART USING AVERAGE STEN SCORES ON THE 14 HSPQ (N=136)</h3>
+      <div align="center">
+      <svg width="500" height="800" class="bar-chart"></svg>
+      </div>
   </body>
 </html>

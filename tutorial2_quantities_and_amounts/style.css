@@ -1,0 +1,34 @@
+body {
+    background: url(images/gold.jpg) repeat-y;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-attachment: fixed;
+}
+
+#header {
+    text-align: center;
+    color: #008a77;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#subtitle {
+    text-align: center;
+    color:  #095248;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 5px;
+    border-bottom: 5px solid darkslategrey;
+    border-bottom-style: dotted;
+}
+p {
+    text-align: justify;
+    font-size: 14pt;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: underline;
+}

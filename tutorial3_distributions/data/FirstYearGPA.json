@@ -1,0 +1,1754 @@
+[
+  {
+    "NAME": 1,
+    "GPA": 3.06,
+    "HSGPA": 3.83,
+    "SATV": 680,
+    "SATM": 770,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 2,
+    "GPA": 4.00,
+    "HSGPA": 4,
+    "SATV": 740,
+    "SATM": 720,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 3,
+    "GPA": 3.41,
+    "HSGPA": 3.7,
+    "SATV": 640,
+    "SATM": 570,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 4,
+    "GPA": 3.21,
+    "HSGPA": 3.51,
+    "SATV": 740,
+    "SATM": 700,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 5,
+    "GPA": 3.48,
+    "HSGPA": 3.83,
+    "SATV": 610,
+    "SATM": 610,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 6,
+    "GPA": 2.95,
+    "HSGPA": 3.25,
+    "SATV": 600,
+    "SATM": 570,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 7,
+    "GPA": 3.6,
+    "HSGPA": 3.79,
+    "SATV": 710,
+    "SATM": 630,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 8,
+    "GPA": 2.87,
+    "HSGPA": 3.6,
+    "SATV": 390,
+    "SATM": 570,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 9,
+    "GPA": 3.67,
+    "HSGPA": 3.36,
+    "SATV": 630,
+    "SATM": 560,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 10,
+    "GPA": 3.49,
+    "HSGPA": 3.7,
+    "SATV": 680,
+    "SATM": 670,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 11,
+    "GPA": 3.25,
+    "HSGPA": 3.53,
+    "SATV": 380,
+    "SATM": 470,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 12,
+    "GPA": 3.18,
+    "HSGPA": 3.48,
+    "SATV": 630,
+    "SATM": 670,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 13,
+    "GPA": 3.85,
+    "HSGPA": 3.81,
+    "SATV": 680,
+    "SATM": 740,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 14,
+    "GPA": 2.58,
+    "HSGPA": 3.38,
+    "SATV": 710,
+    "SATM": 750,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 15,
+    "GPA": 3.5,
+    "HSGPA": 3.8,
+    "SATV": 670,
+    "SATM": 650,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 16,
+    "GPA": 3.17,
+    "HSGPA": 3.55,
+    "SATV": 580,
+    "SATM": 690,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 17,
+    "GPA": 2.74,
+    "HSGPA": 3.4,
+    "SATV": 510,
+    "SATM": 610,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 18,
+    "GPA": 3.42,
+    "HSGPA": 3.76,
+    "SATV": 690,
+    "SATM": 670,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 19,
+    "GPA": 2.9,
+    "HSGPA": 3.74,
+    "SATV": 660,
+    "SATM": 640,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 20,
+    "GPA": 3.16,
+    "HSGPA": 3.83,
+    "SATV": 580,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 21,
+    "GPA": 3.78,
+    "HSGPA": 3.98,
+    "SATV": 720,
+    "SATM": 730,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 22,
+    "GPA": 2.72,
+    "HSGPA": 3.44,
+    "SATV": 550,
+    "SATM": 570,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 23,
+    "GPA": 2.81,
+    "HSGPA": 3.59,
+    "SATV": 580,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 24,
+    "GPA": 3.56,
+    "HSGPA": 3.6,
+    "SATV": 690,
+    "SATM": 710,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 25,
+    "GPA": 3.3,
+    "HSGPA": 3.56,
+    "SATV": 700,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 26,
+    "GPA": 4,
+    "HSGPA": 4,
+    "SATV": 450,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 27,
+    "GPA": 3.4,
+    "HSGPA": 3.2,
+    "SATV": 630,
+    "SATM": 770,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 28,
+    "GPA": 2.29,
+    "HSGPA": 3.3,
+    "SATV": 630,
+    "SATM": 450,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 29,
+    "GPA": 3.2,
+    "HSGPA": 3.25,
+    "SATV": 590,
+    "SATM": 670,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 30,
+    "GPA": 2.58,
+    "HSGPA": 3.38,
+    "SATV": 500,
+    "SATM": 430,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 31,
+    "GPA": 3.11,
+    "HSGPA": 3.94,
+    "SATV": 620,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 32,
+    "GPA": 3,
+    "HSGPA": 2.8,
+    "SATV": 530,
+    "SATM": 700,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 33,
+    "GPA": 3,
+    "HSGPA": 3.7,
+    "SATV": 620,
+    "SATM": 740,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 34,
+    "GPA": 3.61,
+    "HSGPA": 3.46,
+    "SATV": 680,
+    "SATM": 720,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 35,
+    "GPA": 3.53,
+    "HSGPA": 3.99,
+    "SATV": 610,
+    "SATM": 630,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 36,
+    "GPA": 2.59,
+    "HSGPA": 3.59,
+    "SATV": 580,
+    "SATM": 550,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 37,
+    "GPA": 3.71,
+    "HSGPA": 4,
+    "SATV": 570,
+    "SATM": 530,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 38,
+    "GPA": 3.26,
+    "HSGPA": 3.78,
+    "SATV": 710,
+    "SATM": 690,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 39,
+    "GPA": 2.1,
+    "HSGPA": 3.48,
+    "SATV": 580,
+    "SATM": 630,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 40,
+    "GPA": 3.79,
+    "HSGPA": 3.9,
+    "SATV": 670,
+    "SATM": 690,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 41,
+    "GPA": 3.43,
+    "HSGPA": 3.12,
+    "SATV": 640,
+    "SATM": 660,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 42,
+    "GPA": 3.13,
+    "HSGPA": 3.2,
+    "SATV": 610,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 43,
+    "GPA": 3.41,
+    "HSGPA": 3.83,
+    "SATV": 640,
+    "SATM": 780,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 44,
+    "GPA": 2.23,
+    "HSGPA": 2.82,
+    "SATV": 600,
+    "SATM": 710,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 45,
+    "GPA": 3.16,
+    "HSGPA": 3.61,
+    "SATV": 570,
+    "SATM": 550,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 46,
+    "GPA": 3.48,
+    "HSGPA": 3.4,
+    "SATV": 690,
+    "SATM": 720,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 47,
+    "GPA": 3.82,
+    "HSGPA": 3.35,
+    "SATV": 660,
+    "SATM": 730,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 48,
+    "GPA": 2.32,
+    "HSGPA": 3.2,
+    "SATV": 730,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 49,
+    "GPA": 3.44,
+    "HSGPA": 3.7,
+    "SATV": 700,
+    "SATM": 630,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 50,
+    "GPA": 2.8,
+    "HSGPA": 3.48,
+    "SATV": 460,
+    "SATM": 600,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 51,
+    "GPA": 2.69,
+    "HSGPA": 4,
+    "SATV": 560,
+    "SATM": 620,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 52,
+    "GPA": 2.9,
+    "HSGPA": 3.22,
+    "SATV": 680,
+    "SATM": 610,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 53,
+    "GPA": 2.77,
+    "HSGPA": 3.5,
+    "SATV": 660,
+    "SATM": 560,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 54,
+    "GPA": 3.52,
+    "HSGPA": 3,
+    "SATV": 460,
+    "SATM": 480,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 55,
+    "GPA": 3.28,
+    "HSGPA": 3.53,
+    "SATV": 540,
+    "SATM": 610,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 56,
+    "GPA": 3.42,
+    "HSGPA": 3.4,
+    "SATV": 530,
+    "SATM": 680,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 57,
+    "GPA": 2.24,
+    "HSGPA": 3.75,
+    "SATV": 520,
+    "SATM": 600,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 58,
+    "GPA": 3.66,
+    "HSGPA": 3.7,
+    "SATV": 680,
+    "SATM": 740,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 59,
+    "GPA": 3.34,
+    "HSGPA": 3.89,
+    "SATV": 570,
+    "SATM": 730,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 60,
+    "GPA": 3.29,
+    "HSGPA": 3.89,
+    "SATV": 590,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 61,
+    "GPA": 3.41,
+    "HSGPA": 3.52,
+    "SATV": 520,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 62,
+    "GPA": 3.06,
+    "HSGPA": 3.2,
+    "SATV": 660,
+    "SATM": 650,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 63,
+    "GPA": 2.7,
+    "HSGPA": 3.25,
+    "SATV": 640,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 64,
+    "GPA": 2.9,
+    "HSGPA": 3.19,
+    "SATV": 710,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 65,
+    "GPA": 3.89,
+    "HSGPA": 4,
+    "SATV": 740,
+    "SATM": 800,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 66,
+    "GPA": 3.11,
+    "HSGPA": 3.18,
+    "SATV": 610,
+    "SATM": 570,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 67,
+    "GPA": 3.73,
+    "HSGPA": 3.79,
+    "SATV": 580,
+    "SATM": 610,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 68,
+    "GPA": 2.52,
+    "HSGPA": 3.55,
+    "SATV": 670,
+    "SATM": 660,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 69,
+    "GPA": 2.84,
+    "HSGPA": 3.9,
+    "SATV": 700,
+    "SATM": 650,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 70,
+    "GPA": 2.51,
+    "HSGPA": 3.5,
+    "SATV": 560,
+    "SATM": 670,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 71,
+    "GPA": 2.84,
+    "HSGPA": 3.69,
+    "SATV": 680,
+    "SATM": 590,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 72,
+    "GPA": 3.88,
+    "HSGPA": 3.6,
+    "SATV": 630,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 73,
+    "GPA": 2.67,
+    "HSGPA": 3.4,
+    "SATV": 310,
+    "SATM": 440,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 74,
+    "GPA": 3.26,
+    "HSGPA": 2.5,
+    "SATV": 600,
+    "SATM": 640,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 75,
+    "GPA": 3.48,
+    "HSGPA": 3.95,
+    "SATV": 590,
+    "SATM": 610,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 76,
+    "GPA": 2.24,
+    "HSGPA": 3.37,
+    "SATV": 570,
+    "SATM": 590,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 77,
+    "GPA": 2.27,
+    "HSGPA": 3.1,
+    "SATV": 500,
+    "SATM": 660,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 78,
+    "GPA": 3.04,
+    "HSGPA": 3.54,
+    "SATV": 610,
+    "SATM": 750,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 79,
+    "GPA": 3.75,
+    "HSGPA": 3.18,
+    "SATV": 580,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 80,
+    "GPA": 3.55,
+    "HSGPA": 3.74,
+    "SATV": 670,
+    "SATM": 570,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 81,
+    "GPA": 3.17,
+    "HSGPA": 3.48,
+    "SATV": 660,
+    "SATM": 710,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 82,
+    "GPA": 3.44,
+    "HSGPA": 3.1,
+    "SATV": 570,
+    "SATM": 740,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 83,
+    "GPA": 2.91,
+    "HSGPA": 2.79,
+    "SATV": 580,
+    "SATM": 550,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 84,
+    "GPA": 3.52,
+    "HSGPA": 3.79,
+    "SATV": 510,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 85,
+    "GPA": 3.34,
+    "HSGPA": 3.09,
+    "SATV": 630,
+    "SATM": 610,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 86,
+    "GPA": 2.45,
+    "HSGPA": 3.03,
+    "SATV": 520,
+    "SATM": 650,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 87,
+    "GPA": 2.78,
+    "HSGPA": 3.08,
+    "SATV": 550,
+    "SATM": 540,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 88,
+    "GPA": 3.27,
+    "HSGPA": 4,
+    "SATV": 560,
+    "SATM": 690,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 89,
+    "GPA": 3.28,
+    "HSGPA": 3.92,
+    "SATV": 620,
+    "SATM": 610,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 90,
+    "GPA": 3.25,
+    "HSGPA": 3.11,
+    "SATV": 710,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 91,
+    "GPA": 3.49,
+    "HSGPA": 4,
+    "SATV": 610,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 92,
+    "GPA": 3.6,
+    "HSGPA": 3.81,
+    "SATV": 600,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 93,
+    "GPA": 2.83,
+    "HSGPA": 3.65,
+    "SATV": 640,
+    "SATM": 710,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 94,
+    "GPA": 3.01,
+    "HSGPA": 2.94,
+    "SATV": 540,
+    "SATM": 580,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 95,
+    "GPA": 2.7,
+    "HSGPA": 3.6,
+    "SATV": 640,
+    "SATM": 730,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 96,
+    "GPA": 2.58,
+    "HSGPA": 3.7,
+    "SATV": 520,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 97,
+    "GPA": 2.89,
+    "HSGPA": 3.79,
+    "SATV": 640,
+    "SATM": 670,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 98,
+    "GPA": 3.3,
+    "HSGPA": 3.32,
+    "SATV": 620,
+    "SATM": 600,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 99,
+    "GPA": 3.15,
+    "HSGPA": 3.32,
+    "SATV": 650,
+    "SATM": 620,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 100,
+    "GPA": 2.88,
+    "HSGPA": 3.1,
+    "SATV": 700,
+    "SATM": 500,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 101,
+    "GPA": 3.43,
+    "HSGPA": 3.71,
+    "SATV": 680,
+    "SATM": 650,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 102,
+    "GPA": 3.68,
+    "HSGPA": 3.73,
+    "SATV": 660,
+    "SATM": 590,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 103,
+    "GPA": 3.03,
+    "HSGPA": 3.66,
+    "SATV": 640,
+    "SATM": 680,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 104,
+    "GPA": 3.46,
+    "HSGPA": 3.6,
+    "SATV": 590,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 105,
+    "GPA": 3.49,
+    "HSGPA": 3.53,
+    "SATV": 590,
+    "SATM": 750,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 106,
+    "GPA": 3.34,
+    "HSGPA": 3.76,
+    "SATV": 510,
+    "SATM": 650,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 107,
+    "GPA": 3.5,
+    "HSGPA": 3.95,
+    "SATV": 690,
+    "SATM": 590,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 108,
+    "GPA": 2.97,
+    "HSGPA": 3.39,
+    "SATV": 540,
+    "SATM": 600,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 109,
+    "GPA": 3.06,
+    "HSGPA": 3.2,
+    "SATV": 590,
+    "SATM": 590,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 110,
+    "GPA": 2.64,
+    "HSGPA": 2.75,
+    "SATV": 520,
+    "SATM": 630,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 111,
+    "GPA": 3.24,
+    "HSGPA": 3.54,
+    "SATV": 710,
+    "SATM": 720,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 112,
+    "GPA": 3.38,
+    "HSGPA": 3.5,
+    "SATV": 650,
+    "SATM": 620,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 113,
+    "GPA": 2.67,
+    "HSGPA": 3.2,
+    "SATV": 520,
+    "SATM": 510,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 114,
+    "GPA": 3.31,
+    "HSGPA": 3.33,
+    "SATV": 580,
+    "SATM": 670,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 115,
+    "GPA": 3.74,
+    "HSGPA": 4,
+    "SATV": 580,
+    "SATM": 690,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 116,
+    "GPA": 2.93,
+    "HSGPA": 3.47,
+    "SATV": 560,
+    "SATM": 630,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 117,
+    "GPA": 3.53,
+    "HSGPA": 3.65,
+    "SATV": 590,
+    "SATM": 560,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 118,
+    "GPA": 3.11,
+    "HSGPA": 3.94,
+    "SATV": 610,
+    "SATM": 690,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 119,
+    "GPA": 3.07,
+    "HSGPA": 3.72,
+    "SATV": 700,
+    "SATM": 720,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 120,
+    "GPA": 3.26,
+    "HSGPA": 3.01,
+    "SATV": 670,
+    "SATM": 680,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 121,
+    "GPA": 3.22,
+    "HSGPA": 3.92,
+    "SATV": 550,
+    "SATM": 570,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 122,
+    "GPA": 2.89,
+    "HSGPA": 3.19,
+    "SATV": 610,
+    "SATM": 580,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 123,
+    "GPA": 3.19,
+    "HSGPA": 3.1,
+    "SATV": 620,
+    "SATM": 460,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 124,
+    "GPA": 3.32,
+    "HSGPA": 3.6,
+    "SATV": 710,
+    "SATM": 640,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 125,
+    "GPA": 3.66,
+    "HSGPA": 3.78,
+    "SATV": 720,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 126,
+    "GPA": 2.95,
+    "HSGPA": 3.59,
+    "SATV": 630,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 127,
+    "GPA": 2.82,
+    "HSGPA": 3.8,
+    "SATV": 740,
+    "SATM": 720,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 128,
+    "GPA": 3.67,
+    "HSGPA": 3.07,
+    "SATV": 520,
+    "SATM": 560,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 129,
+    "GPA": 3.67,
+    "HSGPA": 4,
+    "SATV": 690,
+    "SATM": 750,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 130,
+    "GPA": 2.19,
+    "HSGPA": 2.88,
+    "SATV": 680,
+    "SATM": 740,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 131,
+    "GPA": 3.32,
+    "HSGPA": 3.87,
+    "SATV": 660,
+    "SATM": 590,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 132,
+    "GPA": 3.48,
+    "HSGPA": 3.81,
+    "SATV": 530,
+    "SATM": 720,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 133,
+    "GPA": 2.87,
+    "HSGPA": 2.76,
+    "SATV": 570,
+    "SATM": 710,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 134,
+    "GPA": 3.57,
+    "HSGPA": 3.06,
+    "SATV": 680,
+    "SATM": 690,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 135,
+    "GPA": 3.65,
+    "HSGPA": 3.94,
+    "SATV": 730,
+    "SATM": 640,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 136,
+    "GPA": 2.85,
+    "HSGPA": 3.94,
+    "SATV": 650,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 137,
+    "GPA": 3.21,
+    "HSGPA": 2.97,
+    "SATV": 480,
+    "SATM": 590,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 138,
+    "GPA": 2.35,
+    "HSGPA": 2.99,
+    "SATV": 650,
+    "SATM": 600,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 139,
+    "GPA": 2.4,
+    "HSGPA": 2.76,
+    "SATV": 400,
+    "SATM": 580,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 140,
+    "GPA": 2.52,
+    "HSGPA": 3.19,
+    "SATV": 580,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 141,
+    "GPA": 3.57,
+    "HSGPA": 3.62,
+    "SATV": 670,
+    "SATM": 700,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 142,
+    "GPA": 2.03,
+    "HSGPA": 2.53,
+    "SATV": 500,
+    "SATM": 560,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 143,
+    "GPA": 2.97,
+    "HSGPA": 3.09,
+    "SATV": 570,
+    "SATM": 590,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 144,
+    "GPA": 2.9,
+    "HSGPA": 3.94,
+    "SATV": 630,
+    "SATM": 670,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 145,
+    "GPA": 2.42,
+    "HSGPA": 3.92,
+    "SATV": 620,
+    "SATM": 700,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 146,
+    "GPA": 3.33,
+    "HSGPA": 3.7,
+    "SATV": 610,
+    "SATM": 660,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 147,
+    "GPA": 3.77,
+    "HSGPA": 3.84,
+    "SATV": 620,
+    "SATM": 670,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 148,
+    "GPA": 3.33,
+    "HSGPA": 3.79,
+    "SATV": 620,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 149,
+    "GPA": 3.37,
+    "HSGPA": 3.16,
+    "SATV": 550,
+    "SATM": 670,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 150,
+    "GPA": 2.68,
+    "HSGPA": 3.75,
+    "SATV": 530,
+    "SATM": 660,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 151,
+    "GPA": 3.33,
+    "HSGPA": 3.25,
+    "SATV": 620,
+    "SATM": 670,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 152,
+    "GPA": 3.75,
+    "HSGPA": 3.24,
+    "SATV": 690,
+    "SATM": 580,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 153,
+    "GPA": 3.68,
+    "HSGPA": 3.1,
+    "SATV": 640,
+    "SATM": 680,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 154,
+    "GPA": 2.16,
+    "HSGPA": 2.64,
+    "SATV": 510,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 155,
+    "GPA": 2.53,
+    "HSGPA": 3,
+    "SATV": 670,
+    "SATM": 740,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 156,
+    "GPA": 3.23,
+    "HSGPA": 3.86,
+    "SATV": 550,
+    "SATM": 510,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 157,
+    "GPA": 3.4,
+    "HSGPA": 3.99,
+    "SATV": 710,
+    "SATM": 610,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 158,
+    "GPA": 2.59,
+    "HSGPA": 3.58,
+    "SATV": 600,
+    "SATM": 490,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 159,
+    "GPA": 3.79,
+    "HSGPA": 4,
+    "SATV": 610,
+    "SATM": 640,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 160,
+    "GPA": 3.52,
+    "HSGPA": 3.22,
+    "SATV": 610,
+    "SATM": 670,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 161,
+    "GPA": 3.1,
+    "HSGPA": 3.04,
+    "SATV": 620,
+    "SATM": 590,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 162,
+    "GPA": 3.34,
+    "HSGPA": 3.36,
+    "SATV": 610,
+    "SATM": 680,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 163,
+    "GPA": 2.74,
+    "HSGPA": 3.02,
+    "SATV": 600,
+    "SATM": 550,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 164,
+    "GPA": 3.14,
+    "HSGPA": 2.85,
+    "SATV": 490,
+    "SATM": 530,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 165,
+    "GPA": 2.29,
+    "HSGPA": 3.49,
+    "SATV": 500,
+    "SATM": 600,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 166,
+    "GPA": 3.16,
+    "HSGPA": 3.58,
+    "SATV": 630,
+    "SATM": 620,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 167,
+    "GPA": 3.06,
+    "HSGPA": 3.46,
+    "SATV": 650,
+    "SATM": 600,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 168,
+    "GPA": 2.74,
+    "HSGPA": 3.45,
+    "SATV": 610,
+    "SATM": 700,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 169,
+    "GPA": 2.63,
+    "HSGPA": 3,
+    "SATV": 620,
+    "SATM": 550,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 170,
+    "GPA": 3.06,
+    "HSGPA": 3.35,
+    "SATV": 590,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 171,
+    "GPA": 3.97,
+    "HSGPA": 3.75,
+    "SATV": 480,
+    "SATM": 550,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 172,
+    "GPA": 2.68,
+    "HSGPA": 3.76,
+    "SATV": 580,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 173,
+    "GPA": 3.58,
+    "HSGPA": 3.88,
+    "SATV": 590,
+    "SATM": 540,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 174,
+    "GPA": 3.56,
+    "HSGPA": 3.16,
+    "SATV": 580,
+    "SATM": 700,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 175,
+    "GPA": 2.63,
+    "HSGPA": 3.14,
+    "SATV": 400,
+    "SATM": 430,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 176,
+    "GPA": 1.97,
+    "HSGPA": 2.61,
+    "SATV": 430,
+    "SATM": 560,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 177,
+    "GPA": 3.66,
+    "HSGPA": 3.4,
+    "SATV": 590,
+    "SATM": 690,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 178,
+    "GPA": 3.51,
+    "HSGPA": 3.64,
+    "SATV": 700,
+    "SATM": 760,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 179,
+    "GPA": 3.07,
+    "HSGPA": 3.38,
+    "SATV": 720,
+    "SATM": 750,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 180,
+    "GPA": 3.2,
+    "HSGPA": 3.75,
+    "SATV": 540,
+    "SATM": 520,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 181,
+    "GPA": 2.58,
+    "HSGPA": 2.83,
+    "SATV": 630,
+    "SATM": 730,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 182,
+    "GPA": 1.93,
+    "HSGPA": 3.01,
+    "SATV": 590,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 183,
+    "GPA": 3.51,
+    "HSGPA": 3.12,
+    "SATV": 470,
+    "SATM": 530,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 184,
+    "GPA": 2.75,
+    "HSGPA": 3.5,
+    "SATV": 650,
+    "SATM": 710,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 185,
+    "GPA": 3.06,
+    "HSGPA": 3.12,
+    "SATV": 560,
+    "SATM": 730,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 186,
+    "GPA": 2.91,
+    "HSGPA": 3.85,
+    "SATV": 530,
+    "SATM": 500,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 187,
+    "GPA": 2.56,
+    "HSGPA": 3.52,
+    "SATV": 690,
+    "SATM": 740,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 188,
+    "GPA": 2.6,
+    "HSGPA": 3.31,
+    "SATV": 630,
+    "SATM": 680,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 189,
+    "GPA": 2.41,
+    "HSGPA": 3.11,
+    "SATV": 370,
+    "SATM": 440,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 190,
+    "GPA": 2.5,
+    "HSGPA": 2.34,
+    "SATV": 710,
+    "SATM": 710,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 191,
+    "GPA": 2.95,
+    "HSGPA": 2.85,
+    "SATV": 670,
+    "SATM": 580,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 192,
+    "GPA": 2.74,
+    "HSGPA": 3.8,
+    "SATV": 710,
+    "SATM": 710,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 193,
+    "GPA": 2.83,
+    "HSGPA": 3.1,
+    "SATV": 570,
+    "SATM": 620,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 194,
+    "GPA": 3.2,
+    "HSGPA": 3.28,
+    "SATV": 570,
+    "SATM": 480,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 195,
+    "GPA": 3.63,
+    "HSGPA": 3.62,
+    "SATV": 600,
+    "SATM": 630,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 196,
+    "GPA": 2.46,
+    "HSGPA": 3.07,
+    "SATV": 660,
+    "SATM": 570,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 197,
+    "GPA": 3,
+    "HSGPA": 2.94,
+    "SATV": 430,
+    "SATM": 520,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 198,
+    "GPA": 3.52,
+    "HSGPA": 3.65,
+    "SATV": 610,
+    "SATM": 550,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 199,
+    "GPA": 3.11,
+    "HSGPA": 3.67,
+    "SATV": 540,
+    "SATM": 670,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 200,
+    "GPA": 2.76,
+    "HSGPA": 2.9,
+    "SATV": 730,
+    "SATM": 620,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 201,
+    "GPA": 3.37,
+    "HSGPA": 4,
+    "SATV": 620,
+    "SATM": 660,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 202,
+    "GPA": 2.56,
+    "HSGPA": 3.96,
+    "SATV": 620,
+    "SATM": 680,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 203,
+    "GPA": 2.38,
+    "HSGPA": 3.7,
+    "SATV": 260,
+    "SATM": 580,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 204,
+    "GPA": 3.69,
+    "HSGPA": 3.04,
+    "SATV": 710,
+    "SATM": 690,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 205,
+    "GPA": 2.1,
+    "HSGPA": 3.65,
+    "SATV": 400,
+    "SATM": 480,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 206,
+    "GPA": 3.12,
+    "HSGPA": 3.25,
+    "SATV": 650,
+    "SATM": 640,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 207,
+    "GPA": 2.24,
+    "HSGPA": 2.67,
+    "SATV": 420,
+    "SATM": 540,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 208,
+    "GPA": 2.23,
+    "HSGPA": 2.7,
+    "SATV": 550,
+    "SATM": 600,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 209,
+    "GPA": 3.72,
+    "HSGPA": 3.87,
+    "SATV": 690,
+    "SATM": 750,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 210,
+    "GPA": 3.68,
+    "HSGPA": 4,
+    "SATV": 640,
+    "SATM": 700,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 211,
+    "GPA": 3.67,
+    "HSGPA": 3.53,
+    "SATV": 690,
+    "SATM": 720,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 212,
+    "GPA": 2.52,
+    "HSGPA": 2.76,
+    "SATV": 560,
+    "SATM": 620,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 213,
+    "GPA": 3.33,
+    "HSGPA": 3.45,
+    "SATV": 600,
+    "SATM": 650,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 214,
+    "GPA": 3.31,
+    "HSGPA": 3.54,
+    "SATV": 680,
+    "SATM": 660,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 215,
+    "GPA": 3.13,
+    "HSGPA": 3.41,
+    "SATV": 700,
+    "SATM": 690,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 216,
+    "GPA": 2.88,
+    "HSGPA": 3.58,
+    "SATV": 680,
+    "SATM": 740,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 217,
+    "GPA": 2.65,
+    "HSGPA": 3.15,
+    "SATV": 590,
+    "SATM": 750,
+    "SEX": "Male"
+  },
+  {
+    "NAME": 218,
+    "GPA": 2.97,
+    "HSGPA": 3.09,
+    "SATV": 670,
+    "SATM": 630,
+    "SEX": "Female"
+  },
+  {
+    "NAME": 219,
+    "GPA": 2.62,
+    "HSGPA": 2.91,
+    "SATV": 610,
+    "SATM": 710,
+    "SEX": "Male"
+  }
+]

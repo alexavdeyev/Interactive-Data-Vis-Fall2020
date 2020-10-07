@@ -1,14 +1,25 @@
 <!DOCTYPE html>
   <head>
     <meta charset="utf-8">
-    <title>Interactive Data Visualization Tutorial</title>
-    <link rel="stylesheet" href="./style.css">
-  </head>
-  <body>
-    Welcome to Interactive Data Visualization Tutorials
-    <label for="dropdown">Filter Selection</label>
-    <select id="dropdown" name="dropdown"></select>
+    <meta name="description" content="Tutorial 4">
+    <meta name="keywords" content="HTML, CSS, JavaScript, VS Code, D3, SVG">
+    <meta name="author" content="Alexander Avdeev">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>.:Interactive Data Visualization Tutorial 4:.</title>
+    <link rel="stylesheet" href="style.css">
     <script src="../lib/d3.js"></script>
     <script src="main.js"></script>
+  </head>
+  <body>
+    <h2 id="header">Tutorial 4: Time Series - Cancer Epidemiology, 1990 to 2017</h2>
+    <p>Total number of people suffering from any type of cancer at a given time.
+    This is measured across both sexes, and all ages.</p>
+    <div>
+      <label for="dropdown">By Country:</label>
+      <select id="dropdown" name="dropdown"></select>
+    </div>
+    <div id="d3-container"> </div>
+
+    <p>*Data Source: <a href="https://ourworldindata.org/grapher/number-of-people-with-cancer" target="_blank">Institute for Health Metrics and Evaluation (IHME), 2018</a></p>
   </body>
 </html>

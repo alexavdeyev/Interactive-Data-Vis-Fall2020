@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+  padding: 2em 3em
+}
+
+header {
+  text-align: left;
+  color: #008a77
+}
+
+div {
+  font-size: medium  
+}
+
+.tooltip {
+  display: block;
+  height: fit-content;
+  background-color: ivory;
+  pointer-events: none;
+  padding: 5px;
+}
+
+circle:hover {
+  stroke-width: 2;
+  fill-opacity: 1;
+  stroke: steelblue;
+  cursor: pointer;
+}
